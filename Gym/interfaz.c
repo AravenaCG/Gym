@@ -32,7 +32,10 @@ void menu( )
         switch(menuOpcionElegida)
         {
         case 1: // ALTA SOCIO
-
+               // int_getInfo(bNombre,bApellido,bDni);
+                
+               // soc_Alta(nombre,apellido,dni,id);
+                      
             break;
         case 2: //  BAJA SOCIO
 
@@ -60,3 +63,19 @@ void menu( )
 
 
 }
+
+
+int int_getInfo(char* bApeliido, char* bNombre, char* bDni)
+{
+    
+ val_getNombre(bNombre,)
+ val_getNombre(bApellido,);
+ val_getDni(bDni,);
+    
+    strcmpy(bDni,dni);
+    strcmpy(bNombre,nombre);
+    strcmpy(bApellido,Apellido);
+    
+    
+    
+ }

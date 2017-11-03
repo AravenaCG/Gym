@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1509670224 source:d:\gymcristianaravena\gym\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"interfaz.h"
+	"ArrayList.h"
+
+1509668690 source:d:\gymcristianaravena\gym\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validar.h"
+
+1509668600 d:\gymcristianaravena\gym\validar.h
+
+1509666952 source:d:\gymcristianaravena\gym\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1509658473 d:\gymcristianaravena\gym\arraylist.h
+
+1509669222 source:d:\gymcristianaravena\gym\interfaz.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"socio.h"
+	"ArrayList.h"
+
+1509670165 source:d:\gymcristianaravena\gym\socio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"interfaz.h"
+	"ArrayList.h"
+	"socio.h"
+
+1509668824 d:\gymcristianaravena\gym\interfaz.h
+
+1509670252 d:\gymcristianaravena\gym\socio.h
+

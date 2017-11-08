@@ -1,5 +1,6 @@
 #ifndef SOCIO_H_INCLUDED
 #define SOCIO_H_INCLUDED
+#include "ArrayList.h"
 
 
 struct
@@ -24,3 +25,8 @@ int soc_setApellido(sSocio* pSocio, char *apellido);
 char* soc_getApellido(sSocio* pSocio);
 int soc_setId(sSocio* pSocio, int id);
 int soc_getId(sSocio* pSocio);
+int soc_setDni(sSocio* pSocio);
+char* soc_getDni(sSocio* pSocio);
+int soc_setEstado(sSocio* pSocio);
+int soc_getEstado(sSocio* pSocio);
+void soc_FindById(ArrayList*,int);

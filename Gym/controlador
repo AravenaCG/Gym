@@ -1,0 +1,15 @@
+#ifndef CONTROLADOR_INCLUDED
+#define CONTROLADOR_INCLUDED
+
+//nomina socios arraylist;
+//idCounter;
+
+#endif // CONTROLADOR_INCLUDED
+
+int init();
+int cont_AltaSocio(char*,char*,char*);
+int cont_BajaSocio(int);
+int cont_ModificarSocio(char*,char*,char*,int,int);
+int cont_ListarSocios();
+int getNewId();
+int setNewId();

@@ -45,3 +45,52 @@
 
 1509670252 d:\gymcristianaravena\gym\socio.h
 
+1510106356 source:/home/turko/Gym/Gym/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510106356 /home/turko/Gym/Gym/ArrayList.h
+
+1510111673 source:/home/turko/Gym/Gym/interfaz.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"socio.h"
+	"ArrayList.h"
+
+1510106356 /home/turko/Gym/Gym/validar.h
+
+1510111646 /home/turko/Gym/Gym/socio.h
+	"ArrayList.h"
+
+1510106356 source:/home/turko/Gym/Gym/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"interfaz.h"
+	"ArrayList.h"
+
+1510111542 /home/turko/Gym/Gym/interfaz.h
+
+1510106356 source:/home/turko/Gym/Gym/socio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"interfaz.h"
+	"ArrayList.h"
+	"socio.h"
+
+1510106356 source:/home/turko/Gym/Gym/validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validar.h"
+
+1510111309 source:/home/turko/Gym/Gym/controlador.c
+

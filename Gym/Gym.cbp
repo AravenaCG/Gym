@@ -35,6 +35,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="ArrayList.h" />
+		<Unit filename="controlador" />
+		<Unit filename="controlador.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="interfaz.c">
 			<Option compilerVar="CC" />
 		</Unit>
